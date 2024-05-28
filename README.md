@@ -59,15 +59,11 @@ The purpose of this project is to design and develop a fully functional website 
 
 <br>
 
-<p>
-
 - Focus on encouraging people to join as members
 - Enhance UI Experience
 - A section dedicated to resource sharing and networking between members
 - Appealing and responsive membership and payment forms
 - Up-to-date events, conferences, podcast (news type banner)
-
-</p>
 
 <br>
 
